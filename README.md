@@ -52,6 +52,8 @@ Models implemented:
 
 Best performing model: **Random Forest Regressor**
 
+![Model Results](MICP.png)
+
 ---
 
 ## 🚀 Usage
